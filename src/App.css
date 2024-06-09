@@ -40,7 +40,10 @@
 .read-the-docs {
   color: #888;
 } */
-
+ html, body{
+  background: #444444;
+  color: aqua;
+ }
 .container{
   text-align: center;
 }
